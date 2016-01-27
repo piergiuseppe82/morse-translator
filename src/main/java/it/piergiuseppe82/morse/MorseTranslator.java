@@ -13,9 +13,9 @@ public class MorseTranslator
 	private static final Logger log = LoggerFactory.getLogger(MorseTranslator.class);
 	    	
 	static {
-       	Map<String, String> aMap = new HashMap<String,String>();
+       		Map<String, String> aMap = new HashMap<String,String>();
 	
-        aMap.put(" ", " ");//SPACE
+        	aMap.put(" ", " ");//SPACE
 		aMap.put("A", ".-");
 		aMap.put("B", "-...");
 		aMap.put("C", "-.-.");
@@ -60,14 +60,14 @@ public class MorseTranslator
 		aMap.put("Ö", "---.");
 		aMap.put("Ü", "..--");
 
-       	txt2MorseMap = Collections.unmodifiableMap(aMap);
+       		txt2MorseMap = Collections.unmodifiableMap(aMap);
    	}
     	
 	public static String toMorse(String txt)
     	{
 		String ret = "";
 		if(txt != null){
-			log.debug("Avvio conversione - Input:"+txt);
+			log.debug("Start translation - Input:"+txt);
 			txt = txt.toUpperCase();
 		  	for(int i = 0; i < txt.length(); i ++){
 				char c = txt.charAt(i);
@@ -77,7 +77,7 @@ public class MorseTranslator
 		 	}
 		 	
 		}
-		log.debug("fine conversione - Output: "+ret);
+		log.debug("End translation - Output: "+ret);
 		return ret.trim();
     }
     	

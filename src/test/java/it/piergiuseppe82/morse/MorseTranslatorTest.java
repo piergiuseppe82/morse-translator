@@ -12,20 +12,18 @@ public class MorseTranslatorTest
     @Test
     public void testTxtToMorse()
     {
-    	log.debug("Avvio test testTxtToMorse");
+    	log.debug("Start test testTxtToMorse");
     	String morseCode = MorseTranslator.toMorse("CIAO MONDO");
-   		Assert.assertEquals("-.-. .. .- ---   -- --- -. -.. ---",morseCode);
-   		log.debug("Test testTxtToMorse: OK ");
-    	  		
+   	Assert.assertEquals("-.-. .. .- ---   -- --- -. -.. ---",morseCode);
+   	log.debug("Test testTxtToMorse: OK ");
     }
 
     @Test
     public void testTxtToMorseUnsensitiveCase()
     {
-    	log.debug("Avvio test testTxtToMorseUnsensitiveCase");
+    	log.debug("Start test testTxtToMorseUnsensitiveCase");
     	String morseCode = MorseTranslator.toMorse("ciao mondo");
-	   	Assert.assertEquals("-.-. .. .- ---   -- --- -. -.. ---",morseCode);
-	   	log.debug("Test testTxtToMorseUnsensitiveCase: OK ");
-   		
+   	Assert.assertEquals("-.-. .. .- ---   -- --- -. -.. ---",morseCode);
+   	log.debug("Test testTxtToMorseUnsensitiveCase: OK ");
     }
 }
