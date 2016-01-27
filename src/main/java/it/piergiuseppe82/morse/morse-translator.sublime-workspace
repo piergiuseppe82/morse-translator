@@ -1,0 +1,673 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dat",
+				"dateString"
+			],
+			[
+				"i",
+				"iframe	Tag"
+			],
+			[
+				"co",
+				"code"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"wh",
+				"width"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"de",
+				"decrypt_RSA"
+			],
+			[
+				"key",
+				"keyGenE"
+			],
+			[
+				"en",
+				"encrypt"
+			],
+			[
+				"he",
+				"head	Tag"
+			],
+			[
+				"re",
+				"read"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MorseTranslator.java",
+			"settings":
+			{
+				"buffer_size": 1890,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/piergiuseppe/devel/java/myprojects/morseapp/workspace/morse-translator/src/test/java/it/piergiuseppe82/morse/MorseTranslatorTest.java",
+			"settings":
+			{
+				"buffer_size": 513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/piergiuseppe/devel/java/myprojects/morseapp/workspace/morse-translator/pom.xml",
+			"settings":
+			{
+				"buffer_size": 977,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 372.0,
+		"selected_items":
+		[
+			[
+				"xml",
+				"Indent XML"
+			],
+			[
+				"in",
+				"Indent XML"
+			],
+			[
+				"X",
+				"Indent XML"
+			],
+			[
+				"inde",
+				"Indent XML"
+			],
+			[
+				"x",
+				"Indent XML"
+			],
+			[
+				"XML",
+				"Indent XML"
+			],
+			[
+				"i",
+				"Indent XML"
+			],
+			[
+				"a",
+				"Auto indent"
+			],
+			[
+				"I",
+				"Indent XML"
+			],
+			[
+				"xm",
+				"Indent XML"
+			],
+			[
+				"",
+				"Auto indent"
+			],
+			[
+				"bui",
+				"Build: Build"
+			],
+			[
+				"buil",
+				"Build: Clean"
+			],
+			[
+				"make",
+				"Set Syntax: Makefile"
+			],
+			[
+				"c",
+				"Build: Cancel"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/piergiuseppe/devel/altran/testPDI/inputCSV.csv",
+		"/home/piergiuseppe/devel/altran/testPDI/out1.txt",
+		"/home/piergiuseppe/devel/altran/testPDI/out2.txt",
+		"/home/piergiuseppe/devel/altran/documents/PTF-1481/SystemOut.log-BB720DC.txt",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/QuickQuotationBEShared/newsletter/template_mail_1.html",
+		"/home/piergiuseppe/devel/altran/documents/ptf-1483/CLIENTE1/SystemOut.txt",
+		"/tmp/ALTRAN_attivita_2016_20160118.xlsx",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/QuickQuotationBEShared/com/altran/email/cfg/email-service.xml",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/QuickQuotationBEShared/newsletter/template_mail_3.html",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/QuickQuotationBEShared/newsletter/template_mail_2.html",
+		"/tmp/201506 Manuale Tecnico Ania - servizio IBD -  Documentazione Tecnica del Servizio ver. 2.8.pdf",
+		"/home/piergiuseppe/devel/altran/curlRequests/widiba/responseSalvaPreventivo.xml",
+		"/home/piergiuseppe/devel/altran/curlRequests/widiba/requestSalvaPreventivo.xml",
+		"/home/piergiuseppe/devel/altran/curlRequests/widiba/responseModificaPreventivo.xml",
+		"/home/piergiuseppe/devel/altran/curlRequests/widiba/requestModificaPreventivo.xml",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/Materiale20160111/scriptDaRilasciare/cfgparamGest.sql",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/Materiale20160111/scriptDaRilasciare/cfgparamGest_dif.sql",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/mockServices/MOCK_AnagraficaWsServiceServerWeb/servergenerator.sh",
+		"/home/piergiuseppe/devel/altran/workspaces/esalling_performance/workspace/AnagraficaMpsWsClientV2/clientgenerator.sh",
+		"/tmp/QQ_Tracciamento correzioni v 1 3.review.doc",
+		"/home/piergiuseppe/devel/altran/documents/presaincarico/NEW_ANGELA/estrazione flusso Presa In Carico SostituzioneTOEmissione-SB0002181.sql",
+		"/tmp/QQ_Tracciamento correzioni v 1.2.doc",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazional20151222/request_salva_preventivo.txt",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151228/B.E.-%20system.out",
+		"/tmp/Quick Quotation mps it _MESSAGGI CORTESIA_ITA_V 1.5.doc",
+		"/tmp/chiamata corretta_2.txt",
+		"/home/piergiuseppe/devel/servers/IBM/WebSphere/AppServer/profiles/AppSrv03/installedApps/placava-debianNode03Cell/MOCK_AnagraficaWsServiceServerEar.ear/MOCK_AnagraficaWsServiceServerWeb.war/WEB-INF/classes/anagraficheMpsBundle.properties",
+		"/home/piergiuseppe/devel/altran/documents/Widiba/segnalazioni/93/SalvaPreventivoRequest.txt",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outBR689XC.out",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outDG178JG.out",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outDSILSE36H18H501L.out",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outEB950LG.out",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outET298HP.out",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outMBSPTR57S03L950Y.out",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outNTNGFR64E08L219Y.out",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outSPDDTR79S42A662L.out",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outZRDLRT47D08D969W.out",
+		"/tmp/Piano Ferie Dicembre2015Gennaio2016-2.xlsx",
+		"/tmp/Piano Ferie Dicembre2015Gennaio2016-1.xlsx",
+		"/tmp/Piano Ferie Dicembre2015Gennaio2016.xlsx",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outDD930VA.out",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/QuickQuotationFEWeb/src/main/webapp/resume-nocorrentisti.html",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/QuickQuotationFEWeb/src/main/webapp/resume-nopaskey.html",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/QuickQuotationFEWeb/src/main/webapp/resume-paskey.html",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outBK225AX.out",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazioni20151211/log_QQ/outBRBGPP57T06G273L.out",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/DanniSellingWeb/src/com/altran/danni/selling/ws/assemblers/PreventivoAssembler.java",
+		"/home/piergiuseppe/devel/altran/documents/ania/chiamateServiziAnia.txt",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/integrazione/AnagraficaMpsWsClient/clientgenerator.sh",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/DanniSellingWeb/wsgenerator.sh",
+		"/tmp/AXAMPS_Configurazione_Deploy_QQ_Mps.it_NAIS_2.0.docx",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/mockServices/MOCK_AnagraficaWsServiceServerWeb/clientgenerator.sh",
+		"/home/piergiuseppe/devel/altran/documents/Widiba/ModificaQuotazioneRequest.txt",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/QuickQuotationBEClient/src/main/java/com/altran/insurance/nais/be/client/QuickQuotationBEClient.java",
+		"/home/piergiuseppe/devel/altran/documents/ptf-1342/error4.txt",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/03_WebAnalytics/TrackingBoxTXT/COD1_1187-Calcola.txt",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/03_WebAnalytics/MPSTraking/GUIDE.txt",
+		"/home/piergiuseppe/devel/altran/documents/Widiba/ModificaQuotazioneRequest.xml",
+		"/home/piergiuseppe/devel/altran/documents/passprod/Documentazione Pass Prodotti 7.1/Uml/testCalcoloDelPremio.java",
+		"/home/piergiuseppe/devel/altran/releases/RELEASE_QQBE_20151120/QuickQuotationBEShared/commons-logging.properties",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/segnalazion/DP975YS.xml",
+		"/home/piergiuseppe/devel/altran/documents/ptf-1352/PAURID_20151118010647.txt",
+		"/home/piergiuseppe/devel/altran/documents/PTF-1335/PRVMSS20151126172948366.out",
+		"/home/piergiuseppe/devel/altran/documents/PTF-1335/PRVMSS20151126172948366.err",
+		"/tmp/Piano test_ mia protezione@widiba_REV_20151112_Altran.xlsx",
+		"/home/piergiuseppe/devel/altran/documents/ptf-1342/error3.txt",
+		"/home/piergiuseppe/devel/altran/documents/ptf-1342/error1.txt",
+		"/home/piergiuseppe/devel/altran/documents/ptf-1342/error2.txt",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/03_WebAnalytics/TrackingBoxTXT/COD8_1187-HB-acquista-telefono.txt",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/03_WebAnalytics/TrackingBoxTXT/COD13_1187-CO-acquista-telefono.txt",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/03_WebAnalytics/TrackingBoxTXT/COD18_1187-NO-Click-Acquista.txt",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/03_WebAnalytics/TrackingBoxTXT/COD12_1187-CO-Click-Acquista.txt",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/03_WebAnalytics/TrackingBoxTXT/COD5_1187-HB-Click-Acquista.txt",
+		"/home/piergiuseppe/devel/servers/apache-tomcat-7.0.55/conf/catalina.properties",
+		"/home/piergiuseppe/devel/altran/documents/FullQuotation/segnalazioniAl20151007/ID1/log.txt",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/ManualeInstallazioneQQFEv1.0.txt",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/integrazione/ServizioLeedMPSCllient/generateJAXBObject.sh",
+		"/home/piergiuseppe/devel/mydevel/js/quick-quotation-public/app/css/feqq.css",
+		"/home/piergiuseppe/devel/mydevel/js/quick-quotation-public/app/views/show.html",
+		"/home/piergiuseppe/devel/mydevel/js/quick-quotation-public/package.json",
+		"/home/piergiuseppe/devel/mydevel/js/quick-quotation-public/bower.json",
+		"/home/piergiuseppe/devel/mydevel/js/quick-quotation-public/app/views/init.html",
+		"/home/piergiuseppe/devel/mydevel/js/quick-quotation-public/app/js/showController.js",
+		"/home/piergiuseppe/devel/mydevel/js/quick-quotation-public/app/js/feqqmodule.js",
+		"/home/piergiuseppe/devel/mydevel/js/quick-quotation-public/app/index.html",
+		"/home/piergiuseppe/devel/mydevel/js/quick-quotation-public/app/js/initController.js",
+		"/home/piergiuseppe/devel/ide/WebStorm-141.1550/LICENCE_CODE.txt",
+		"/home/piergiuseppe/devel/altran/workspaces/esalling_performance/workspace/ServizioLeedMPSCllient/clientgenerator.sh",
+		"/home/piergiuseppe/devel/altran/documents/consultazioneNais/Lentezza20151006/logConsultazione.txt",
+		"/home/piergiuseppe/devel/altran/svnrepo/altran/trunk/C210_N150_20150803/feDanni/ConsultazioneNaisWs/src/it/altran/danni/ws/consultazione/services/impl/AnagraficaServicesImpl.java",
+		"/home/piergiuseppe/devel/altran/workspaces/esalling_performance/workspace/ServizioLeadMPSWS/wsgenerator.sh",
+		"/home/piergiuseppe/devel/altran/svnrepo/altran/trunk/C210_N152_20150924/wsBanca/FEBancaDTO/src/com/altran/services/febanca/dto/acquisto/EsitoIncasso.java",
+		"/home/piergiuseppe/devel/altran/svnrepo/altran/trunk/C210_N152_20150924/wsBanca/FEBancaServices/src/com/altran/services/domain/acquisto/impl/AcquistoServicesDomainImpl.java",
+		"/home/piergiuseppe/devel/altran/svnrepo/altran/trunk/C210_N152_20150924/wsBanca/FEBancaServices/src/com/altran/services/domain/acquisto/AcquistoServicesDomain.java",
+		"/home/piergiuseppe/devel/altran/svnrepo/altran/trunk/C210_N152_20150924/wsBanca/FEBancaWS/src/com/altran/acquisto/services/impl/AcquistoServicesImpl.java",
+		"/home/piergiuseppe/devel/altran/workspaces/esalling_performance/workspace/QuickQuotationBEClient/clientgenerator.sh",
+		"/home/piergiuseppe/devel/altran/workspaces/esalling_performance/workspace/QuickQuotationBEWeb/wsgenerator.sh",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/DanniSellingClients/clientgenerator.sh",
+		"/home/piergiuseppe/devel/altran/documents/FullQuotation/batch_estrazione_preventivi/ESTS2E20150907030131621.err",
+		"/home/piergiuseppe/devel/altran/documents/QuickQuotationSitoPubblico/SeqDiagram.seq.violet.html",
+		"/home/piergiuseppe/devel/altran/documents/FullQuotation/SystemOut20150907.log",
+		"/home/piergiuseppe/devel/mydevel/web/galaxianexplosion_v2/index.html",
+		"/home/piergiuseppe/devel/mydevel/web/galaxianexplosion_v2/css/main.css",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/danni/WebNaisPC/scripts/bin/run_batch.sh",
+		"/home/piergiuseppe/devel/altran/documents/ottimizzazioniGlobaliBatch/materiale_giuseppe_pietro/Performance/update_param_gest.sql",
+		"/home/piergiuseppe/devel/altran/documents/ottimizzazioniGlobaliBatch/materiale_giuseppe_pietro/Performance/prop.properties",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/danni/WebNaisPC/scripts/bin/qtz_batch.sh",
+		"/home/wasadm07/stampaMassiva/FileStampaMassivaEmissione_20150716_114641.csv",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/danni/WebNaisPC/scripts/build/c:/batch_nais/bin/run_batch.sh",
+		"/home/wasadm06/AppServer/joia/Adobe/input/converterXML/ATDQADEGUATE.xml",
+		"/home/piergiuseppe/devel/javascript/jqmobiletest/index.html",
+		"/home/piergiuseppe/Downloads/salva-SELLING_RESPONSE_1431529656634.xml",
+		"/home/piergiuseppe/Downloads/LOG.txt",
+		"/tmp/xa-lRjw3S/2)OUTPUTcalcoloPremio.xml",
+		"/home/piergiuseppe/Downloads/logproduzione.txt;jsessionid=573308B70276FD7FDD7FBD6D0359D089;jsessionid=9172DAE86EEB43F69E46BBD4D3E65478",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/integrazione/FEBancaDataAccess/initSQLScript/insert_tipologiche.sql",
+		"/home/piergiuseppe/devel/utils/bashCommandRemind.txt",
+		"/home/piergiuseppe/Downloads/PRODUZIONE/salvaPreventivo/inputCalcoloPremioRESPONSE.txt",
+		"/home/piergiuseppe/Downloads/logproduzione.txt;jsessionid=573308B70276FD7FDD7FBD6D0359D089;jsessionid=D137852C97E9DE1EE3EE2533159DA6AC",
+		"/tmp/xa-0Uh9yj/SELLING_RESPONSE_1431690149926.xml",
+		"/home/piergiuseppe/devel/altran/documents/FullQuotation/segnalazioni_20150519/SE14-59/calcoloPremio-SELLING_RESPONSE_1431525344650.xml",
+		"/tmp/xa-0Uh9yj/EJ190RM.xml",
+		"/home/piergiuseppe/scripts/vimscripts/intentXML.vs",
+		"/home/piergiuseppe/Downloads/acquista-SELLING_RESPONSE_1431529663581.xml",
+		"/home/piergiuseppe/devel/altran/documents/REVISIONE_TAR_AUTO/scripty_prev_isvap/prev_web_script_PTF-1009.sql",
+		"/home/piergiuseppe/devel/altran/documents/REVISIONE_TAR_AUTO/scripty_prev_isvap/prev_web_script.sql",
+		"/home/piergiuseppe/devel/altran/svnrepo/trunk/preventivatore/AccenturePreventivatoreServices/src/it/accenture/tariffatore/services/impl/pojo/ValoriPortafoglio.java",
+		"/home/piergiuseppe/devel/altran/documents/REVISIONE_TAR_AUTO/scripty_prev_isvap/prev_isvap_script.sql"
+	],
+	"find":
+	{
+		"height": 77.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SMLRCC60R15G942V",
+			"#URL_APPLICATION#/assets/images/newsletter",
+			"http://85.94.202.20/dem_mps/paskey/images/footer.jpg",
+			"http://85.94.202.20/dem_mps/paskey/images",
+			"?trck_dis_tr=1",
+			"Sott",
+			"Apri c",
+			"Internet Banking",
+			"Di seguito il codice per visualizzare o modificare la tua quotazione RC",
+			"numeroP",
+			"ben",
+			"<ben",
+			"<beni>",
+			"adegua",
+			"forz",
+			"forza",
+			"02505",
+			"NTNGFR64E08L219Y",
+			"Call Center",
+			"Call C",
+			"2016",
+			"garanzia",
+			"</garanzia",
+			"<garanzia",
+			"\n",
+			"validaImputIncasso",
+			"validaInput",
+			"validaInputInca",
+			"validaInput",
+			"incass",
+			">\n",
+			"						       		<",
+			"				<",
+			"			<",
+			"col-centered",
+			"//",
+			"+",
+			"\"",
+			"contacts",
+			";\n",
+			"FURTO",
+			"SINRE",
+			"SIN",
+			"att",
+			"attest",
+			"attestato",
+			"5276",
+			"5275",
+			"CODTVE",
+			"to_date('08-MAY-15','DD-MON-RR')",
+			"TRACE",
+			"exception",
+			"NullPointer",
+			"05",
+			"FindCopy",
+			"sxPrcAnno",
+			"Numero sinistri in responsabilità principale",
+			"anno",
+			"attestat",
+			"JAVA_OPTS",
+			"\");",
+			"\", \"",
+			"stampa",
+			"tipoVeicolo",
+			"siviDettaglio",
+			"filtroTpVeic",
+			"setCodiceTipoVeicolo",
+			"codTpVei2",
+			"codTpVeic2",
+			"codTpVeic",
+			"codTipoVeicolo",
+			"tipV",
+			"incasso",
+			"incass",
+			"sez_prst",
+			"24-10-2014 17:57:19",
+			"COD_PRG_IND_CNTN",
+			"sez_prst",
+			"COD_PRG_IND_CNTN",
+			"334",
+			"338",
+			"NETTO",
+			"-430",
+			"setDoubleRateElapsed",
+			"setElapsedDoubleYear",
+			"1209",
+			"NETTO",
+			"365",
+			"360",
+			"setDoubleR",
+			"688",
+			"7,3",
+			"7,34",
+			"1.04",
+			"PREMIO ANNUO NETTO",
+			"889",
+			"PREMIO ANNUO NETTO",
+			"SB0009178",
+			"COD_POL_So",
+			"POL",
+			"2015-03-02 [0-9][0-9]:[0-9][0-9]:[0-9][0-9].[0-9][0-9][0-9]",
+			"(2015-03-02 [0-9][0-9]:[0-9][0-9]:[0-9][0-9].[0-9][0-9][0-9])",
+			"2015-03-02 [0-9][0-9]:[0-9][0-9]:[0-9][0-9].[0-9][0-9][0-9] \\[main]",
+			"2015-03-02 [0-9][0-9]:[0-9][0-9]:[0-9][0-9].[0-9][0-9][0-9]",
+			"1343.76",
+			"1304",
+			"PLRDPO",
+			"1635.48",
+			"ProgressivoIndirizzo",
+			"ProgressivoIndirizzoPolizza",
+			"progressivo",
+			"/n",
+			"alime",
+			"deroghe",
+			"massimale",
+			"(),",
+			";",
+			"Fascia add",
+			"3339",
+			"SETTORE",
+			"Fascia A",
+			"Att",
+			"rinno",
+			"tipo fa",
+			"pro",
+			"fa",
+			"ATTPT1",
+			"TPFABB"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"/home/piergiuseppe/devel/altran/svnrepo/trunk/feDanni/QuickQuotationFEWeb/src/main/webapp/assets/images/newsletter",
+			"#URL_APPLICATION#/assets/images/newsletter/footer.jpg",
+			"",
+			"PasKey Internet Banking",
+			"Questo &egrave; il codice per visualizzare o modificare la tua quotazione RC",
+			"SPDDTR79S42A662L",
+			"",
+			"sysdate",
+			"06",
+			"JDecompile",
+			"sxCrspAnno",
+			"Percentuale sinistri in corresponsabilita",
+			"</value></entry>",
+			"</value></key><value>",
+			"20-11-2014 18:04:39",
+			"",
+			"\"),",
+			"",
+			" ",
+			"",
+			"SalvaPreventivo",
+			"salvaPreventivo",
+			"CalcolaPremioPreventivo",
+			"CalcolaPremio",
+			"ConsultazioneNaisEAR",
+			"05",
+			"",
+			"dto",
+			"",
+			"dto",
+			"",
+			"dto",
+			"impl:item",
+			"ACTUATOR_MP",
+			"02",
+			"--",
+			"",
+			"AccentureAnagraficaWebEAR",
+			"AccentureDanniWebEAR",
+			"AccentureDanniFEWebEAR",
+			" ",
+			"",
+			"',",
+			"','",
+			".",
+			"Richiesta Svincolo",
+			"163",
+			"AppSrv03",
+			"-- REM ",
+			"SYSDATE",
+			"",
+			"'TAIL',sysdate);",
+			"'TAIL'",
+			"'TWIN'",
+			"'ADMIN'",
+			"'FILIALE'",
+			"'DIREZ'",
+			"'MPDG5'",
+			"'000015'",
+			"'004100'",
+			"'000002'",
+			",'B',",
+			"'B'",
+			"DIREZ",
+			"'B'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MorseTranslator.java",
+					"settings":
+					{
+						"buffer_size": 1890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1880,
+								1880
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 445.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/piergiuseppe/devel/java/myprojects/morseapp/workspace/morse-translator/src/test/java/it/piergiuseppe82/morse/MorseTranslatorTest.java",
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								513,
+								513
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/piergiuseppe/devel/java/myprojects/morseapp/workspace/morse-translator/pom.xml",
+					"settings":
+					{
+						"buffer_size": 977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 116.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/piergiuseppe/devel/C/c/projects/hello/hello.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 97.0,
+	"status_bar_visible": true
+}
